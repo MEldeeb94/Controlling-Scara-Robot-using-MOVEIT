@@ -1,0 +1,2 @@
+ppr_scara_1:scara_moveit
+-DCATKIN_DEVEL_PREFIX=/home/eldeeb/scara/devel -DCMAKE_INSTALL_PREFIX=/home/eldeeb/scara/install -G Unix Makefiles

@@ -1,0 +1,11 @@
+moveit_setup_assistant_config:
+  URDF:
+    package: ppr_scara
+    relative_path: urdf/ppr_scara.urdf
+    xacro_args: ""
+  SRDF:
+    relative_path: config/ppr_scara.srdf
+  CONFIG:
+    author_name: eldeeb
+    author_email: eldeeb@eldeeb.com
+    generated_timestamp: 1722861473

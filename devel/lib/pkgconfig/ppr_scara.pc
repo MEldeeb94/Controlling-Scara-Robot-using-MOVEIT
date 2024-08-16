@@ -1,0 +1,8 @@
+prefix=/home/eldeeb/scara/devel
+
+Name: ppr_scara
+Description: Description of ppr_scara
+Version: 1.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
